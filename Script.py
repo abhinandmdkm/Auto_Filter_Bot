@@ -153,15 +153,15 @@ Nᴀᴍᴇ - {}
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-📝 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-⚜️ ᴇxᴀᴍᴘʟᴇ : Jawan or Jawan 2023 
-
-📝 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-⚜️ ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
-
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
+⚠️ Search Spelling എന്ന്
+എഴുതിയിരിക്കുന്ന ബട്ടണിൽ ക്ലിക്ക് 
+ചെയ്ത് ശരിയായ സിനിമയുടെ
+പേര് കണ്ടെത്തി ഇവിടെ നൽകുക 
+എന്നാലേ സിനിമ കിട്ടുകയുള്ളു..
+‼️ ശരിയായ സ്പെല്ലിങ് അടിച്ചിട്ടും 
+മൂവി വന്നില്ലെങ്കിൽ DVD OTT റിലീസ് 
+ആയിട്ടുണ്ടാകില്ല...
+🎭 തിയേറ്റർ പ്രിൻ്റ് കിട്ടില്ല, HD മൂവീസ് മാത്രം..!!!</b>"""
     
     I_CUD_NT = """<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 
@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/cinemayugam">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/cinemayugam">[ CINEMAYUGAM ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
